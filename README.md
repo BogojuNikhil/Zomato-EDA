@@ -1,8 +1,10 @@
 **Project Title: Zomato EDA Insights**
 This project involves a thorough Exploratory Data Analysis (EDA) on a dataset containing over 55,000 Zomato customer records. The objective was to clean and prepare the data, then extract meaningful insights about user behavior and restaurant patterns using visual analytics.
+
 **Key Steps:**
 - Data Cleaning: Removed duplicates, handled missing values using statistical imputation, merged semantically similar column entries, and standardized column names for better readability.
 - Data Visualization: Used libraries like Matplotlib and Seaborn to generate plots highlighting online ordering trends, cuisine popularity, ratings distribution, vote volumes, price ranges, booking preferences, and restaurant types.
+
 **Insights Uncovered:**
 - Certain cuisines tend to receive higher ratings and booking frequencies.
 - Customers show stronger engagement with restaurants that support online ordering.
